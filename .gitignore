@@ -1,0 +1,7 @@
+*.pyc
+*_
+__pycache__
+venv
+db.sql3
+/static
+.DS_Store
